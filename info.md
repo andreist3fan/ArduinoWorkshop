@@ -165,3 +165,7 @@ void loop() {
 
 }
 ```
+
+# Using pwm to control the speed of the motor
+
+[link to article discussing this](https://support.arduino.cc/hc/en-us/articles/9350537961500-Use-PWM-output-with-Arduino)
